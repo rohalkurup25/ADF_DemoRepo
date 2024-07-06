@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GIT-DEMO25",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "034220bd-390f-485d-8639-3ed3a4df34ec",
+		"tenantId": "26aa8109-2411-46a8-8efa-afd6147c76e4"
+	}
+}
